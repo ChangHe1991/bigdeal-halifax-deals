@@ -1,0 +1,16 @@
+{
+  "name": "bigdeal-halifax-deals",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "*",
+    "next": "*",
+    "react": "*",
+    "react-dom": "*"
+  }
+}
